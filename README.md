@@ -65,7 +65,7 @@ This configuration is provided as-is and is licensed under the MIT License.
 ## Credits
 
 - Hyprland: https://hyprland.org/
-- Omarchy: https://github.com/anomalyco/omarchy
+- Omarchy
 - Tablet mode scripts inspired by various community contributions
 
 ## Support
