@@ -1,0 +1,35 @@
+# Git ignore file for Hyprland configuration
+
+# Ignore any local override files
+*.local
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore swap files
+*.swp
+*.swo
+
+# Ignore temporary files
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore any local cache or build directories
+cache/
+build/
+dist/
+
+# Ignore any local environment files
+.env
+.env.local
+
+# Ignore any local secrets or credentials
+secrets/
+credentials/
+
+# Ignore any local override files
+override/
+local/
